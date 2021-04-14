@@ -11,7 +11,7 @@ h2 { font-size: 2.7em; }
 h3 { font-size: 2.3em; }
 h4 { font-size: 1.9em; }
 
-nav ul, footer ul { clear: both; position: relative; height: 200px; margin-top: -200px; font-size: 1em; font-family: 'Helvetica', 'Arial', 'Sans-Serif'; padding: 0px; list-style: none; font-weight: bold; }
+nav ul, footer ul { font-size: 1em; font-family: 'Ubuntu Mono'; padding: 0px; list-style: none; font-weight: bold; }
 nav ul li, footer ul li { display: inline; margin-right: 20px; }
 
 footer { position:absolute; bottom:0; width:70%; height:60px; border-top: 1px solid #d5d5d5; font-size: .8em; }
