@@ -8,4 +8,4 @@ One of my more significant projects, Moods of Twitter was a project completed as
 
 The project was a steep learning curve for me. Web development has always been something I struggled with. I learnt a lot about cloud architecture through the project: including utilising different APIs, load balancing, containerisation and caching. To get an idea of how the architecture of the program interacts, have a look at this diagram:
 
-<img src="/files/architecture.png" alt="Architecture Diagram">
+<div class="img"><img src="/files/architecture.png" alt="Architecture Diagram"></div>
