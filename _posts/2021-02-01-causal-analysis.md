@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Summer Research project"
+title: "Summer research project"
 date: 2021-02-01
 ---
 
