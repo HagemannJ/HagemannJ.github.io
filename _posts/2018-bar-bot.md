@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Finally started my site"
+title: "The first uni project: Bar-bot"
 date: 2018
 ---
 

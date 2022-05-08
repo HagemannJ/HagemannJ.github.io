@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Finally started my site"
-date: 2021-04-14
+title: "Summer Research project"
+date: 2021
 ---
 
-Built the shell for the website today thanks to the wonderful help of the internet. I will be populating this blog with my previous projects as well as personal posts.  
+At the end of 2020 / beginning of 2021, I worked on a research project under supervision of Dr. Zahra Jadidi. The project was an investigation into causal analysis of event logs within industrial control systems. The project aimed to help identify and predict the actions of APTs within ICS. 
 
-Stay tuned!
+Read the abstract 
