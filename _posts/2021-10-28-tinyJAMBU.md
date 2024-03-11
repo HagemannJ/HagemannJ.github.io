@@ -15,7 +15,7 @@ In the statistical analysis we perform various randomness tests, finding that th
 sufficiently random. In investigating the differentials of plaintext and ciphertext produced by the
 algorithm, no apparent properties are exhibited which we would disadvantageous. Attempts at
 forgery were made against three separate areas: modification of the initialisation parameters,
-modification of the associated data and plaintext, and modification of the state for MAC generation. The team then produced their own modified version of the algorithm, reducing the state size
+modification of the associated data and plaintext, and modification of the state for MAC generation. The team then produced their own modified version of the algorithm, reducing the state size
 from 128-bits to 32-bits. Using the modified cipher the team measures the theoretical collision
 rate against a practical implementation. Results from practical experiment matches the expected
 theoretical probability of collisions.
