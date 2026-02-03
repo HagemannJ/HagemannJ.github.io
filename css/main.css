@@ -1,4 +1,6 @@
-body { margin: 60px auto; width: 70%; background-color: #606470;}
+body { margin: 60px 0; background-color: #606470;}
+
+.container { width: 70%; margin: 0 auto; }
 
 a { text-decoration: none; color: #999; }
 a:hover { text-decoration: underline; }
@@ -14,8 +16,7 @@ h4 { font-size: 1.9em; }
 nav ul, footer ul { font-size: 1em; font-family: 'Ubuntu Mono'; padding: 0px; list-style: none; font-weight: bold; }
 nav ul li, footer ul li { display: inline; margin-right: 20px; }
 
-footer { position:relative; bottom:0; width:70%; height:60px; border-top: 1px solid #d5d5d5; font-size: .8em; }
-
+footer { margin: 60px 0; border-top: 1px solid #d5d5d5; font-size: .8em; }
 
 /* Blog */
 ul.posts { margin: 20px auto 40px; font-size: 1.5em; }
