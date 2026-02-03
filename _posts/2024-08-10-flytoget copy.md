@@ -6,9 +6,9 @@ date: 2024-08-10
 
 As part of the Systems Security course, myself and another student (Aðalsteinn) performed a security investigation on a mobile application called 'Flytoget'. 
 The application allows users to purchase and view train tickets to and from Oslo airport. By leveraging techniques we learned throughout the course, we were able
-ascertain weak security implementations of the applcation, resulting in a number of vulnerabilities being uncovered, including account takeover. 
+ascertain weak security implementations of the application, resulting in a number of vulnerabilities being uncovered, including account takeover. 
 The process was very revealing as to the realities of security in widely used applications that handle sensitive data. Let's take a quick look at one of the
-vulnerabilities discovered and explain how good secuirty pracitce could have prevented it. 
+vulnerabilities discovered and explain how good security practice could have prevented it. 
 
 The authentication mechanism is roughly shown as follows:
 <div class="img"><img src="/files/authentication_normal.png" alt="Architecture Diagram"></div>
